@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+
+print("vaisakh");
+
+=======
+print("hello world");
+print(new);
+>>>>>>> 84750494a92a851a707be0f38cd3d450158e0aba
